@@ -12,7 +12,7 @@ Built using only **HTML**, **CSS**, and **Vanilla JavaScript**, this tool offers
 
 ## 🌐 Live Demo
 
-🔗 [Visit the Live Calculator](https://rajcode2006.github.io/smart-age-calculator/)  
+🔗 [Visit the Live Calculator](https://rajcode-xs1dd.github.io/smart-age-calculator/)  
 _(Works smoothly on desktop and mobile browsers)_
 
 ---
