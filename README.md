@@ -30,7 +30,7 @@ _(Works smoothly on desktop and mobile browsers)_
 
 ## 📸 Screenshot
 
-![Smart Age Calculator Screenshot](c:\Users\patra\OneDrive\Pictures\Screenshots\Screenshot 2025-12-31 183442.png)  
+![Smart Age Calculator Screenshot](Screenshot%202025-12-31%20183442.png)  
 
 ---
 
